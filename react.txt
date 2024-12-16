@@ -1,0 +1,18 @@
+for output
+console.log() instead of print
+if ()
+
+let m=40
+if(m<50){
+console.log("fail")
+}
+
+
+let= use this only for loop
+let a=1
+
+let a=2 
+output=error
+const= only constant value 
+var= don't use (can declare more than 1 )
+var
